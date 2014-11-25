@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">Context Monitor Agent</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Context Monitor Agent</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="sensing_setting">SENSING</string>
+    <string name="server_address_label"><b>Server address:</b></string>
+    <string name="sensing_duration_label"><b>Sensing duration:</b></string>
+    <string name="transfer_period_label"><b>Transfer period:</b></string>
+    <string name="idle_state"><b>IDLE</b></string>
+    <string name="monitoring_state"><b>MONITORING</b></string>
+    <string name="context_info">Context Information</string>
+    <string name="copyright">© 2013 Moon Kwon Kim - infidea.net</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="transmission_setting">TRANSMISSION</string>
+    <string name="context_list_setting">Context list…</string>
+    <string name="context_list_setting_sum">Select contexts to be monitored</string>
+    <string name="sensing_duration_setting">Sensing duration (s)…</string>
+    <string name="sensing_duration_setting_sum">Enter sensing duration with seconds. The default value, \'0\' means sensing continuously.</string>
+    <string name="sensing_duration_dialog">Sensing duration (s)</string>
+	<string name="null_str">null</string>
+	<string name="specific_duration_setting">Sensing for specific duration</string>
+	<string name="server_address_setting">Server address…</string>
+	<string name="server_address_setting_sum">Enter your server address.</string>
+	<string name="server_address_setting_dialog">Server address</string>
+	<string name="transfer_period_setting">Transfer period (s)…</string>
+	<string name="transfer_period_setting_sum">Enter transfer period with milliseconds. Default: 0.5 (s), Minimum: 0.1 (s)</string>
+	<string name="transfer_period_dialog">Transfer period (s)</string>
+	<string name="context_setting_monitor_all">Monitor all</string>
+	<string name="context_location">Location</string>
+	<string name="context_acceleration">Acceleration</string>
+	<string name="context_magnetic_field">Magnetic field</string>
+	<string name="context_orientation">Orientation</string>
+	<string name="context_gyroscope">Gyroscope</string>
+	<string name="context_light">Light</string>
+	<string name="context_pressure">Pressure</string>
+	<string name="context_temperature">Device temperature</string>
+	<string name="context_proximity">Proximity</string>
+	<string name="context_gravity">Gravity</string>
+	<string name="context_linear_acceleration">Linear Acceleration</string>
+	<string name="context_rotation_vector">Rotation Vector</string>
+	<string name="context_relative_humidity">Relative Humidity</string>
+	<string name="context_ambient_temperature">Ambient Temperature</string>
+	<string name="cancel_displaying_context_info">Cancel displaying context info</string>
+	<string name="transfer_on_setting">Context transmission</string>
+    <string name="about_full_text">
+        <b><i>Context Monitor Agent</i></b> is an Android application for helping developers who want to monitor mobile contexts.\n\n
+        Visit infidea.net for more information. 
+    </string>
+    <string name="ver">ver.0.1</string>
+</resources>
